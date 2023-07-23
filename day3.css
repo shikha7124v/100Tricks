@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.zoom{
+    padding: 19px;
+    background-color: #78869d;
+    width: 600px;
+    height: 620px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+h3{
+    color: #ccd5e1;
+    text-align: center;
+}
+.zoom img{
+    text-align: center;
+    transition: transform .2s;
+    width: 300px;
+    height: 300px;
+    margin: 125px 125px;
+}
+.zoom img:hover{
+    -ms-transform: scale(1.5) ;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
