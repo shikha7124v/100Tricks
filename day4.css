@@ -1,0 +1,14 @@
+button{
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 3px;
+    padding: 12px 20px;
+    margin: 50px;
+    border: none;
+    color: white;
+    background-color: lightseagreen;
+    transition: all ease 0.5s;
+}
+button:hover{
+    box-shadow: 5px 5px 0px black;
+}
