@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    font-size: 250px;
+    font-weight: 900;
+    background-image: url(https://media.istockphoto.com/id/1198274282/vector/network-nodes-depth-connections-space-abstract-background.jpg?s=612x612&w=0&k=20&c=G-Bd-86VIru-m5HbnSD_epQGHvPIjBPWK_4i9zramR8=);
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
